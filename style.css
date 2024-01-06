@@ -341,7 +341,7 @@ a{
 .home{
     height: 100vh;
    position: relative;
-    background-image: url(images/intro-bg.jpg);
+    background-image: url(intro-bg.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: 50%;
